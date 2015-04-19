@@ -17,11 +17,11 @@
     "lint": "node run-tests"
   },
   "dependencies": {
-    "clean-css": "~3.1.9",
+    "clean-css": "~3.2.9",
     "csslint": "~0.10.0",
     "jshint": "~2.7.0",
     "shelljs": "~0.4.0",
-    "uglify-js": "~2.4.20"
+    "uglify-js": "~2.4.21"
   },
   "jshintConfig": {
     "bitwise": true,
